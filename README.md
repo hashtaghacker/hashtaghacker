@@ -19,6 +19,7 @@ Currently Director of PM at **Qyrus**, leading a 10+ module enterprise testing p
 
 | Product | What It Did | Result |
 |---|---|---|
+| **TestRelic AI** | Brain for AI testing | Just launched | 
 | **SmartUI** – Visual Regression | Cloud-native screenshot diffing with Selenium, Playwright & Cypress SDKs | scale in months |
 | **Analytics & Insights** | Flakiness detection, failure analysis & quality KPI dashboards | Enterprise users |
 | **Cloud Automation Grid** | Unified multi-framework grid for Selenium, Playwright, Cypress at scale | Pre-Series A → Series D |
