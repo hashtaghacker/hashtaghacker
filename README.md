@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srivishnu-ayyagari)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vishnu.ayyagari@gmail.com)
-[![TestRelic AI](https://img.shields.io/badge/TestRelic%20AI-00E5FF?style=flat-square&logoColor=black)](https://testrelic.ai)
+[![TestRelic AI](https://img.shields.io/badge/TestRelic%20AI-027c6a?style=flat-square&logoColor=black)](https://testrelic.ai)
 
 ---
 
