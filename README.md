@@ -28,7 +28,7 @@ Before TestRelic, I led product at **Qyrus AI** as Director of Products in AI Qu
 | **Ask AI** | Natural language interface to query your Playwright test data without writing queries |
 | **Flaky Test Detection** | Surfaces non-deterministic tests before they erode CI confidence |
 | **MCP Integration** | Plugs into your existing developer toolchain via Model Context Protocol |
-| **SOC 2 Type II + GDPR** | Enterprise-grade compliance, built in from day one |
+| **SOC 2 Type II + GDPR** | Enterprise-grade compatible, built in from day one |
 
 → [testrelic.ai](https://testrelic.ai)
 
